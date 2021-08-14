@@ -1,0 +1,26 @@
+.App{
+
+width: 1440px;
+height: 3935px;
+background: #FFFFFF;
+
+}
+#downloadLogo{
+  border: 2px solid #F84647;
+  height: 20px;
+  width: 17;
+  left: 1147px;
+  top: 32px;
+  border-radius: 50px;
+
+}
+.navDetails:hover{ 
+  color: rgb(0, 0, 0,1); 
+}
+.navDetails{
+color: rgba(0, 0, 0, 0.479);
+padding: 20px;
+text-decoration: none;
+}
+
+/* Emergency Reporting just got way Cooler!!! */
